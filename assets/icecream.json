@@ -1,0 +1,76 @@
+{
+    "icecreams": [
+        {
+            "flavor": "Vanilla",
+            "description": "Classic and creamy vanilla flavour loved by everyone",
+            "toppings": ["chocolate chips", "whipped cream", "sprinkles"],
+            "price": 4.99,
+            "image": "https://images.unsplash.com/photo-1526268862070-516d2ac797a2?q=80&w=1937&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+                {"name": "Vanilla Extract", "quantity": "2 tsp"},
+                {"name": "Heavy Cream", "quantity": "2 cups"},
+                {"name": "Sugar", "quantity": "3/4 cups"}
+            ]
+        },
+        {
+            "flavor": "Chocolate",
+            "description": "Rich and indulgent chocolate flavor for chocolate lovers",
+            "toppings": ["chocolate sauce", "whipped cream", "chocolate shavings"],
+            "price": 5.99,
+            "image": "https://media.istockphoto.com/id/910643846/photo/chocolate-ice-cream.jpg?s=2048x2048&w=is&k=20&c=LSevScEYu4hJMiKTXh2QUXYSaoqjl9xIapuygMDBxJ4=",
+            "ingredients": [
+              {"name": "Cocoa Powder", "quantity": "1/2 cup"},
+              {"name": "Heavy Cream", "quantity": "2 cups"},
+              {"name": "Sugar", "quantity": "1 cup"}
+            ]
+        },
+        {
+            "flavor": "Strawberry",
+            "description": "Sweet and fruity strawberry goodness with real fruit chunks",
+            "toppings": ["fresh strawberries", "whipped cream", "sprinkles"],
+            "price": 6.49,
+            "image": "https://plus.unsplash.com/premium_photo-1661288452010-951ca57991fc?q=80&w=1779&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+              {"name": "Fresh Strawberries", "quantity": "1 cup, diced"},
+              {"name": "Heavy Cream", "quantity": "2 cups"},
+              {"name": "Sugar", "quantity": "1/2 cup"}
+            ]
+        },  
+        {
+            "flavor": "Caramel Cupcake",
+            "description": "Delicious cupcake flavor with swirls of caramel",
+            "toppings": ["caramel sauce", "cupcake pieces", "whipped cream"],
+            "price": 7.99,
+            "image": "https://images.unsplash.com/photo-1549395156-e0c1fe6fc7a5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "ingredients": [
+              {"name": "Cupcake Pieces", "quantity": "1 cup"},
+              {"name": "Caramel Sauce", "quantity": "3/4 cup"},
+              {"name": "Heavy Cream", "quantity": "2 cups"}
+            ]
+        },
+        {
+            "flavor": "Mango Sorbet",
+            "description": "Refreshing and tropical mango sorbet for a fruity delight",
+            "toppings": ["fresh mango slices", "mint leaves"],
+            "price": 5.49,
+            "image": "https://media.istockphoto.com/id/802040150/photo/mango-sorbet.jpg?s=2048x2048&w=is&k=20&c=8gphSQ2484WnZYXqhAP5-KgUOpLojL-ZKMD4wCQwZRM=",
+            "ingredients": [
+              {"name": "Fresh Mango Puree", "quantity": "2 cups"},
+              {"name": "Lime Juice", "quantity": "2 tbsp"},
+              {"name": "Sugar", "quantity": "1/2 cup"}
+            ]
+        },
+        {
+            "flavor": "Pistachio",
+            "description": "Nutty and creamy pistachio flavor with real pistachio chunks",
+            "toppings": ["chopped pistachios", "whipped cream", "chocolate drizzle"],
+            "price": 6.99,
+            "image": "https://media.istockphoto.com/id/1151466157/photo/pistachio-ice-cream-in-the-black-bowl.jpg?s=1024x1024&w=is&k=20&c=QtnOGpQnoHkmXZeXQpPGQWzN9VSypJwgijQNAAiYrgk=",
+            "ingredients": [
+              {"name": "Pistachio Paste", "quantity": "1/2 cup"},
+              {"name": "Heavy Cream", "quantity": "2 cups"},
+              {"name": "Sugar", "quantity": "1/3 cup"}
+            ]
+        }
+    ]
+}
