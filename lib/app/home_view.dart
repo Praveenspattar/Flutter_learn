@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_learn/iceceram/icecream_view.dart';
+import 'package:flutter_learn/iceceram/views/icecream_view.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({super.key});

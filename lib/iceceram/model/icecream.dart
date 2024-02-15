@@ -19,12 +19,12 @@ class IcecreamData {
     this.icecreams,
   });
 
-  factory IcecreamData.fromJson(Map<String,dynamic> json) => new IcecreamData(
-    icecreams: new List<Icecream>.from(json["icecreams"].map((x) => Icecream.fromJson(x))),
+  factory IcecreamData.fromJson(Map<String,dynamic> json) => IcecreamData(
+    icecreams: List<Icecream>.from(json["icecreams"].map((x) => Icecream.fromJson(x))),
   );
 
   Map<String, dynamic> toJson() => {
-    "icecreams": new List<dynamic>.from(icecreams!.map((x) => x.toJson())),
+    "icecreams": List<dynamic>.from(icecreams!.map((x) => x.toJson())),
   };
 
 }
